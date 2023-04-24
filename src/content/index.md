@@ -1,6 +1,6 @@
 ---
 id: home
-title: React – The library for web and native user interfaces
+title: React – Thư viện cho giao diện người dừng web và native
 permalink: index.html
 ---
 

@@ -131,7 +131,7 @@ export function HomeContent() {
             React
           </h1>
           <p className="text-4xl font-display max-w-lg md:max-w-full py-1 text-center text-secondary dark:text-primary-dark leading-snug self-center">
-            The library for web and native user interfaces
+            Thư viện cho giao diện người dùng web và native
           </p>
           <div className="mt-5 self-center flex gap-2 w-full sm:w-auto flex-col sm:flex-row">
             <ButtonLink
@@ -140,7 +140,7 @@ export function HomeContent() {
               size="lg"
               className="w-full sm:w-auto justify-center"
               label="Learn React">
-              Learn React
+              Học React
             </ButtonLink>
             <ButtonLink
               href={'/reference/react'}
@@ -148,20 +148,20 @@ export function HomeContent() {
               size="lg"
               className="w-full sm:w-auto justify-center"
               label="API Reference">
-              API Reference
+              Tài liệu API
             </ButtonLink>
           </div>
         </div>
 
         <Section background="left-card">
           <Center>
-            <Header>Create user interfaces from components</Header>
+            <Header>Xây dựng giao diện người dùng từ các component</Header>
             <Para>
-              React lets you build user interfaces out of individual pieces
-              called components. Create your own React components like{' '}
-              <Code>Thumbnail</Code>, <Code>LikeButton</Code>, and{' '}
-              <Code>Video</Code>. Then combine them into entire screens, pages,
-              and apps.
+              React cho phép bạn xây dựng giao diện người dùng từ những phần
+              nhỏ, riêng lẻ gọi là các component. Tạo các component của riêng
+              bạn như <Code>Thumbnail</Code>, <Code>LikeButton</Code>, và{' '}
+              <Code>Video</Code>. Sau đó kết hợp chúng thành các màn hình, các
+              trang và các ứng dụng.
             </Para>
           </Center>
           <FullBleed>
